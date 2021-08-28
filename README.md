@@ -30,7 +30,7 @@ brew install java
 brew install scala
 brew install node
 ```
-### onmyZSH
-
-
-#### Commands
+### Terminal Themes
+https://ohmyz.sh/
++ theme - Half life 
++ color scheme - [Google Dark](https://github.com/Mayccoll/Gogh/blob/master/themes/google-dark.sh)
